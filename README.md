@@ -16,7 +16,7 @@ currently planned to be added
 
 # installing and running
 
-dependencies: time, pynput, tkinter
+dependencies: time, pynput, tkinter, ConfigParser
 
 install dependencies using pip
 
