@@ -4,6 +4,8 @@ cross-platform keys-per-second displayer, using pynput and tkinter.
 
 created for the rhythm game osu!: https://osu.ppy.sh/home but could theoretically be used for other purposes.
 
+nearly identical in function to: https://github.com/yugecin/osukps but with cross platform (non-windows operating system) support in mind.
+
 intended use is to be added into a livestream overlay, so that viewers are able to see more detailed information on your ingame inputs.
 
 currently planned to be added
