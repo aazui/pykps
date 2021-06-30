@@ -18,11 +18,13 @@ dependencies: time, pynput, tkinter
 
 install dependencies using pip
 
-example command (may not work on your system): pip install tkinter pynput time
+example command (may not work on your system): 
+
+``pip install tkinter pynput time``
 
 pykps is a standalone python file. To run it using the command line, after verifying that all dependencies are present, simply run the file using:
 
-python pykps.py
+``python pykps.py``
 
 # license
 
